@@ -1,0 +1,1 @@
+clear && echo 'Bonjour Monde'
